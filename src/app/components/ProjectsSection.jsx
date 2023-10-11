@@ -76,7 +76,7 @@ const projectsData = [
   {
     id: 2,
     title: "CODESPHERE",
-    description: "CodeSphere: Your one-stop coding hub! Log in, solve problems, submit code, and practice with our built-in IDE. Track your progress with submission history. Elevate your coding skills effortlessly.",
+    description: "CodeSphere: Your one-stop coding hub! Register/Login, solve problems, submit code, and practice with our built-in IDE. Track your progress with submission history. Elevate your coding skills effortlessly.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Div16s/ONLINE-JUDGE",
@@ -85,7 +85,7 @@ const projectsData = [
   {
     id: 3,
     title: "NOTESPHERE",
-    description: "Unlock the potential of your notes! Register, log in, and experience the freedom to create, edit, and delete notes effortlessly. Tailor your profile with a personal picture – all your notes, all at your fingertips.",
+    description: "Unlock the potential of your notes! Register/Login, and experience the freedom to create, edit, and delete notes effortlessly. Tailor your profile with a personal picture – all your notes, all at your fingertips.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Div16s/NOTE_TAKING_APP",

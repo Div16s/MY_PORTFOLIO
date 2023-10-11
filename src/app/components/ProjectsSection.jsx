@@ -77,7 +77,7 @@ const projectsData = [
     id: 2,
     title: "CODESPHERE",
     description: "CodeSphere: Your one-stop coding hub! Register/Login, solve problems, submit code, and practice with our built-in IDE. Track your progress with submission history. Elevate your coding skills effortlessly.",
-    image: "/images/projects/2.png",
+    image: "/images/projects/csp-bg.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Div16s/ONLINE-JUDGE",
     previewUrl: "/",

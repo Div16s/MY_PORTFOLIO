@@ -45,15 +45,15 @@ const AboutSection = () => {
             <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
                 <p className='text-base lg:text-lg'>
-Hey there! 👋 I'm currently a pre-final year student pursuing a Bachelor's degree in Computer Science and Engineering (CSE). I've always had a passion for building things with technology.
+Hey there! 👋 I&apos;m currently a pre-final year student pursuing a Bachelor&apos;s degree in Computer Science and Engineering (CSE). I&apos;ve always had a passion for building things with technology.
 
 🌐 Web Development Enthusiast: I enjoy creating websites and web applications that are not only functional but also visually appealing. From crafting user-friendly frontends to handling server-side logic, I find the world of web development incredibly exciting.
 
-💡 Fullstack Explorer: I'm not just limited to the front-end or back-end; I'm a fullstack enthusiast. I relish the challenge of working on both ends of the spectrum, from designing user interfaces to optimizing server performance.
+💡 Fullstack Explorer: I&apos;m not just limited to the front-end or back-end; I&apos;m a fullstack enthusiast. I relish the challenge of working on both ends of the spectrum, from designing user interfaces to optimizing server performance.
 
-🚀 Aspiring Software Developer: My career goal is to become a Software Development Engineer (SDE). I'm constantly honing my coding skills and staying up-to-date with the latest technologies to achieve this aim.
+🚀 Aspiring Software Developer: My career goal is to become a Software Development Engineer (SDE). I&apos;m constantly honing my coding skills and staying up-to-date with the latest technologies to achieve this aim.
 
-Feel free to explore my portfolio and projects to get a glimpse of my work. If you share a passion for tech and development, let's connect and collaborate on some exciting projects together!
+Feel free to explore my portfolio and projects to get a glimpse of my work. If you share a passion for tech and development, let&apos;s connect and collaborate on some exciting projects together!
                 </p>
                 <div className='flex flex-row justify-start mt-8'>
                     <TabButton selectTab={()=>handleTabChange("skills")} active={tab==="skills"}>

@@ -67,7 +67,7 @@ const projectsData = [
   {
     id: 1,
     title: "Next.js/React Portfolio Website",
-    description: "Project 1 description",
+    description: "Explore my professional journey on my Next.js/React portfolio website. Experience my work, skills, and passion through a sleek and user-friendly interface.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Div16s/MY_PORTFOLIO",

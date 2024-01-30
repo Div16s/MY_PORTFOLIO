@@ -47,7 +47,7 @@ const AboutSection = () => {
                 <p className='text-base lg:text-lg'>
 Hey there! 👋 I&apos;m currently a pre-final year student pursuing a Bachelor&apos;s degree in Computer Science and Engineering (CSE). I&apos;ve always had a passion for building things with technology.
 
-🌐 Web Development Enthusiast: I enjoy creating websites and web applications that are not only functional but also visually appealing. From crafting user-friendly frontends to handling server-side logic, I find the world of web development incredibly exciting.
+🌐 Development Enthusiast: I enjoy creating websites and web applications that are not only functional but also visually appealing. From crafting user-friendly frontends to handling server-side logic, I find the world of web development incredibly exciting.
 
 💡 Fullstack Explorer: I&apos;m not just limited to the front-end or back-end; I&apos;m a fullstack enthusiast. I relish the challenge of working on both ends of the spectrum, from designing user interfaces to optimizing server performance.
 

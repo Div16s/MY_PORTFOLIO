@@ -53,6 +53,8 @@ Hey there! 👋 I&apos;m currently a pre-final year student pursuing a Bachelor&
 
 🚀 Aspiring Software Developer: My career goal is to become a Software Development Engineer (SDE). I&apos;m constantly honing my coding skills and staying up-to-date with the latest technologies to achieve this aim.
 
+👊 Competitive Coder and Problem Solver: In addition to my passion for development, I&apos;m also an avid competitive coder who loves solving problems.
+
 Feel free to explore my portfolio and projects to get a glimpse of my work. If you share a passion for tech and development, let&apos;s connect and collaborate on some exciting projects together!
                 </p>
                 <div className='flex flex-row justify-start mt-8'>

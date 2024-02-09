@@ -26,8 +26,8 @@ const HeroSection = () => {
                 1000,
                 "Developer",
                 1000,
-                // "UI/UX Designer",
-                // 1000,
+                "Competitive Coder",
+                1000,
               ]}
               wrapper="span"
               speed={50}
@@ -40,7 +40,8 @@ const HeroSection = () => {
           💡 Aspiring Software Development Engineer (SDE) in the making.
 
           🚀 Building my development skills through one project at a time.
-
+              
+          🔥A passionate competitive coder who loves problem-solving challenges.
 
           </p>
           <div>
@@ -51,7 +52,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1vq4lHYaRCsZsY20GBzplEFuj6jzeubtX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GJDeU3POAdHqKMlhJkNmR9IBNHuZ40jl/view?usp=drive_link"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 to-pink-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

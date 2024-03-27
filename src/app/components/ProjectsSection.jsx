@@ -75,6 +75,15 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "THREADS",
+    description: "Threads: A social media platform that connects you with friends and family. Share posts and images with your network. Like & comment on posts, and stay connected with your loved ones.",
+    image: "/images/projects/2.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/Div16s/MERN-STACK-THREADS",
+    previewUrl: "/",
+  },
+  {
+    id: 2,
     title: "CODESPHERE",
     description: "CodeSphere: Your one-stop coding hub! Register/Login, solve problems, submit code, and practice with our built-in IDE. Track your progress with submission history. Elevate your coding skills effortlessly.",
     image: "/images/projects/csp-bg.png",

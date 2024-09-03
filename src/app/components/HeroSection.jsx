@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          🌐 Learning and exploring Full Stack Development through hands-on projects.
+          🌐 Learning and exploring Development through hands-on projects.
 
           💡 Aspiring Software Development Engineer (SDE) in the making.
 
